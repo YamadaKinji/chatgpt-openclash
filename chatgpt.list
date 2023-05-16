@@ -13,3 +13,8 @@ DOMAIN-SUFFIX,invoice.stripe.com
 DOMAIN-SUFFIX,stripe.com
 #add poe.com
 DOMAIN-SUFFIX,poe.com
+
+#new bing
+DOMAIN-SUFFIX,msftconnecttest.com
+DOMAIN-SUFFIX,bing.com
+DOMAIN-KEYWORD,bing
