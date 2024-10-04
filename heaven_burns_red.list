@@ -1,5 +1,5 @@
-# DOMAIN,app.adjust.com
-# DOMAIN-SUFFIX,app-measurement.com
+DOMAIN,app.adjust.com
+DOMAIN,app-measurement.com
 DOMAIN-SUFFIX,akamaized.net
 DOMAIN-SUFFIX,gree-apps.net
 DOMAIN-SUFFIX,heaven-burns-red.wfs.games
