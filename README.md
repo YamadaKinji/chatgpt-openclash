@@ -9,8 +9,9 @@
     https://api.dler.io/sub?target=clash&new_name=true&url=你的订阅链接(需要使用URL编码，)&config=https://raw.githubusercontent.com/YamadaKinji/chatgpt-openclash/main/Full.ini
 
 对于hy2协议：
+
     https://url.v1.mk/sub?target=clash&url=你的订阅链接(需要使用URL编码，)&insert=false&config=https://raw.githubusercontent.com/YamadaKinji/chatgpt-openclash/main/Full.ini&emoji=true&list=false&xudp=false&udp=false&tfo=false&expand=true&scv=false&fdn=false&new_name=true
-    
+
 控制面板中，Chatgpt选择节点选择，节点选择选择除中国地区（包含香港）的其他节点即可
 
 如果更新规则后，仍提示地区不可用，请清除浏览器数据
